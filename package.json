@@ -1,0 +1,21 @@
+{
+  "name": "gms2-docs-parser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "documentationImporter.js",
+  "dependencies": {
+    "@types/adm-zip": "^0.4.32",
+    "@types/cheerio": "^0.22.13",
+    "@types/fs-extra": "^8.0.1",
+    "adm-zip": "^0.4.13",
+    "ajv": "^6.10.2",
+    "cheerio": "^1.0.0-rc.3",
+    "fs-extra": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Spira",
+  "license": "MIT"
+}

@@ -1,0 +1,26 @@
+# No node modules!
+node_modules/
+
+# No out! This is TS only 😎
+out/
+
+# No Logs!
+npm-debug.log
+logs/
+
+# Get this shit outta here!
+.DS_Store
+
+# Don't put the databases online!
+data/
+*.db
+
+# Keep my auth outta the web!
+src/shared/assets/json/auth.json
+
+# No docs stuff!
+src/shared/assets/json/gmlDocs.json
+
+# I don't want your stinkin IDE settings!
+/.idea
+/.vscode
